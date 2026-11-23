@@ -1,0 +1,18 @@
+data/browser_profile/
+data/db/
+.env
+__pycache__/
+cookies*.json
+cookies*.txt
+
+# Markdown docs
+*.md
+
+# Data files
+data/
+*.sqlite
+*.csv
+*.db
+
+# Local Claude settings
+.claude/
